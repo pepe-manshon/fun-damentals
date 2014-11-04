@@ -10,3 +10,4 @@ But also train on working with GitHub
 Single Repo Workflow in use
 
 Feature 2
+Feature 3
